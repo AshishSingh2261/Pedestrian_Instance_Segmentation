@@ -12,4 +12,6 @@ MaskRCNN repo link: https://github.com/leekunhee/Mask_RCNN
 
 Arxiv paper about mask-rcnn: https://arxiv.org/abs/1703.06870
 
+Kaggle Notebook Link: https://www.kaggle.com/ashishsingh226/pedestrian-instance-segmentation-using-maskrcnn
+
 
